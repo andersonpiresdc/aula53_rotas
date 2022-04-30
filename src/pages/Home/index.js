@@ -6,6 +6,7 @@ export default function Home(){
          <h1>Bem vindo a pagina Home...</h1>
          <Link to="/sobre">Sobre</Link><br/>
          <Link to="/contato">Contatos</Link><br/>
+         <Link to="/produto">Produtos</Link><br/>
 
       </div>
    )
